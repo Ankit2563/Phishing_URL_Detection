@@ -1,0 +1,455 @@
+
+URL : https://www.nitj.ac.in/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.5324
+
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.1344
+
+URL : https://www.jpmorgan.com/investment-banking/esg-at-j-p-morgan
+Status : Not Phishing
+Percentage safe to use URl is : 99.9999
+
+URL : https://111.90.159.132/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://mail.google.com/mail/u/0/#inbox
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : http://87e924b7eab56b0e80a9e506f08c4ed4.domeniu.com/us/?token=87e924b7eab56b0e80a9e506f08c4ed4									
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://censor.net.ua/tag/4535/%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80%D1%8B
+Status : Phishing
+Percentage safe to use URl is : 0.105
+
+URL : http://copadomundofaturazero.dyndns-web.com/www.faturazerocopadomundocadastramento.com.br/copa-18/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://87e924b7eab56b0e80a9e506f08c4ed4.domeniu.com/us/?token=87e924b7eab56b0e80a9e506f08c4ed4									
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : https://www.linkedin.com/in/ankit2563
+Status : Not Phishing
+Percentage safe to use URl is : 99.8678
+
+URL : https://www.linkedin.com/in/ankit2563
+Status : Not Phishing
+Percentage safe to use URl is : 99.8678
+
+URL : https://www.youtube.com/watch?v=iAIBF2ngbWY&list=RDiAIBF2ngbWY&start_radio=1
+Status : Not Phishing
+Percentage safe to use URl is : 99.8871
+
+URL : http://copadomundofaturazero.dyndns-web.com/www.faturazerocopadomundocadastramento.com.br/copa-18/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://censor.net.ua/tag/4535/%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80%D1%8B
+Status : Phishing
+Percentage safe to use URl is : 0.105
+
+URL : http://censor.net.ua/tag/5146/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%BC%D0%B8%D1%87
+Status : Phishing
+Percentage safe to use URl is : 0.105
+
+URL : https://www.youtube.com/watch?v=6OXfgu8uKnE&list=RDiAIBF2ngbWY&index=2
+Status : Not Phishing
+Percentage safe to use URl is : 99.9771
+
+URL : http://t.womenwan.com/game/images/tlcs/148-onepw/index.swf?act=http%3A%2F%2Fyaowan.com%2Fwebads_reg.php&amp;sendparam=%26recom_man%3Dkr02%26recom_2%3Djuncheng%26openerstr%3Dkr02%26material_id%3D148-onepw%26plat%3Dyw%26game%3Dtlcs%26district%3D0%26sip%
+Status : Phishing
+Percentage safe to use URl is : 12.9104 
+
+URL : http://vinoscalyptra.cl/paypal/paypal/update/com/c53b375e47339f779a68088c7d648f89/wbsccr.php?cmd=_Processing&amp;dispatchX85d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af4365aea49e3373cbf7bc336d49d99e495a6caea49e3373cbf7bc336d49d99e495a6c
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://www.naylorantiques.com/%20*/ZLNWQMIGQZGQYFJUHAIDEDRMJUZIYQMGNIMKCUYFKAMMYZHGQQEBTDFMJOOUIABNWSUJZHFWSHHUFXGJHCTIFDGELITMCYDWNIC/RAOWUGFWXWGCWDIJTUADYGOVHSTCPLLUYGOGUUIYMPUIYVRLORZYKMXGDCKOQNUKYEINWNMNXRTSNKPIZCYLQNSIWGEEGCFNIMS/
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://www.naylorantiques.com/IhMOcwSQdfyQmbanHBfyqFDiizehlyWuQIdcZDiEpokMksDKEHmPmapkEHjgqOusrRDsYWCHpvEaYgXKxSzpTdTi/QTbShCJmdUAGJyiffltuAttveeGtNVKgJFGGkdKYWLOmnKsQeTYTKFPIDNVneOXLBejZtKWuEnOxxJlJgesGZSTR/
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+
+URL : http://log-tn.com/Paypal-Support/Processing.htm?cmd=_Processing&dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af4365bffaeca3912a8066b0f10859f57121f6bffaeca3912a8066b0f10859f57121f6
+Status : Not Phishing
+Percentage safe to use URl is : 73.7112
+
+URL : https://store.koozieguy.com/fancyBox/lib/IDMSWebAuthS/loginhtmlAppIdKeyaf1139274f266b22b68c2a3e7ad932cb3c0bbe854e13a79af78dcc73136882c3PathSs/Referrers_Inc/Wo_VeteMail.Html/Manage&SslEnabled_SiginTrue/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://www3.bankofamerica.com.id06e.newmail.ru/secure_membin_BankOfAmeri_caemail_id43432gjg98987ihgwq72k9878e.htm?secure=yes
+Status : Phishing
+Percentage safe to use URl is : 12.9104
+
+
+URL : https://www.usa.gov/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.ed.gov/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.who.int/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.nasa.gov/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.bbc.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.apple.com/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.federalreserve.gov/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.redcross.org/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.harvard.edu/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.loc.gov/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.metmuseum.org/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.8678
+
+URL : https://mail.google.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.facebook.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.bankofamerica.com/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.netflix.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9978
+
+URL : http://www.controlyourbreath.com/pp/css_/img/webscr/cmd_/_/login_run/46d13a7e13bd525106918363ee08975d/Confirm.htm
+Status : Phishing
+Percentage safe to use URl is : 41.7727
+
+URL : http://www.cqpszx.com/images/?amp;app=com-d3&amp;amp;us.battle.net/login/en/?ref=holghtbus.battle.net/d3/en/index
+Status : Phishing
+Percentage safe to use URl is : 0.1456
+
+URL : http://www.jxgaez.com/js/index.htm?secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;bbrqzjkssl=0&amp;dest
+Status : Phishing
+Percentage safe to use URl is : 12.9104
+
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.selfdevelopmentsteps.com/wp-content/zone/nl/www.icscards.nl/processing/creditcard-activeren.html
+Status : Phishing
+Percentage safe to use URl is : 12.9104
+
+URL : http://www.soucaipu.cn/js/index.htm?us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 91.4211
+
+URL : https://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.5324
+
+URL : http://www.rybkj.cn/jpg/?us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 91.4211
+
+URL : http://distrimarsanitarios.soydg.com/wp-content/themes/jay/dea61c7dfc81ebd6d94dbf8b01317862/
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://www.sotsm.com/plugins/acesso/Resgate_de_pontos_expirados/premiado/imagens/emdobro/zn/
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : https://docs.google.com/spreadsheet/embeddedform?formkey=dEVoamZFQXptN3lSOWpBWktRRXB3VFE6MQ
+Status : Not Phishing
+Percentage safe to use URl is : 99.9929
+
+URL : http://siegethebeatbully.com/paypal/paypal/paypal/cycgi-bin/webscrcmd=_home-customer&nav=1/
+Status : Phishing
+Percentage safe to use URl is : 6.3196
+
+URL : http://online.citicard.com.v2vshpwz8h.agencja-em.pl/doctorsincanton.com/wp-css/online.php
+Status : Not Phishing
+Percentage safe to use URl is : 99.9963
+
+URL : http://armadillo.arvixe.com/~youlam/verify-ur-account-support-apple-update-information/
+Status : Phishing
+Percentage safe to use URl is : 4.1154
+
+URL : https://docs.google.com/spreadsheet/viewform?formkey=dEQzZG90UFJhUTU3cjhGUHp0ZnF5RGc6MQ
+Status : Not Phishing
+Percentage safe to use URl is : 99.9999
+
+URL : https://docs.google.com/spreadsheet/viewform?formkey=dFJfMURPeDFXXzRwLTF2N0trcXhwdWc6MA
+Status : Not Phishing
+Percentage safe to use URl is : 99.9999
+
+URL : http://www.crestonwood.com/router.php
+Status : Phishing
+Percentage safe to use URl is : 1.121
+
+URL : http://shadetreetechnology.com/V4/validation/a111aedc8ae390eabcfa130e041a10a4
+Status : Phishing
+Percentage safe to use URl is : 6.3196
+
+URL : http://shadetreetechnology.com/V4/validation/a111aedc8ae390eabcfa130e041a10a4
+Status : Phishing
+Percentage safe to use URl is : 6.3196
+
+URL : https://support-appleld.com.secureupdate.duilawyeryork.com/ap/89e6a3b4b063b8d/?cmd=_update&dispatch=89e6a3b4b063b8d1b&locale=_
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://www.jpmorgan.com/investment-banking/esg-at-j-p-morgan
+Status : Not Phishing
+Percentage safe to use URl is : 99.9999
+
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.1344
+
+URL : https://www.anaconda.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.nitj.ac.in/admission.in/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9955
+
+URL : http://online.nitjsr.ac.in/endsem/
+Status : Phishing
+Percentage safe to use URl is : 45.7658
+
+URL : https://v1.nitj.ac.in/index.php/nitj_cinfo/admissions
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://v1.nitj.ac.in/nitj_files/News/PhD_Combined_NITJ-3_23040659400.pdf
+Status : Not Phishing
+Percentage safe to use URl is : 99.9974
+
+URL : https://v1.nitj.ac.in/tbi/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://v1.nitj.ac.in/index.php/nitj_cinfo/administration
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://nitj.ac.in/template/index.html?id=64f56123fb63c48bfd227c6e?category=newpage
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://127.0.0.1:5000/
+Status : Phishing
+Percentage safe to use URl is : 27.9945
+
+URL : https://nitj.ac.in/admin/ranking.html
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9999
+
+URL : https://iamtheproudownerofthelongestlongestlongestdomainnameinthisworld.com/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://stimulantonline.ca/advertising/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9998
+
+URL : https://online.nitjsr.ac.in/endsem/FeePayment/Payment.aspx
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://developers.google.com/community/devfest
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://adsonair.withgoogle.com/events/april-founder-fridays
+Status : Not Phishing
+Percentage safe to use URl is : 99.9983
+
+URL : https://developer.microsoft.com/en-us/reactor/about/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9953
+
+URL : https://www.bing.com/maps?mepi=106&ty=18&q=Microsoft&ss=ypid.YN1029x100347783&ppois=51.51968002319336_-0.18173900246620178_Microsoft_YN1029x100347783%7E&cp=51.519661%7E-0.181723&v=2&sV=1&lvl=16.2
+Status : Not Phishing
+Percentage safe to use URl is : 99.9998
+
+URL : https://www.bing.com/maps?mepi=106&ty=18&q=Microsoft&ss=ypid.YN1029x100347783&ppois=51.51968002319336_-0.18173900246620178_Microsoft_YN1029x100347783%7E&cp=51.455977%7E-1.339468&v=2&sV=1&lvl=7.2
+Status : Not Phishing
+Percentage safe to use URl is : 99.9998
+
+URL : https://www.youtube.com/shorts/tHe3RL6rx1g
+Status : Not Phishing
+Percentage safe to use URl is : 99.9974
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.bankofamerica.com/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.bankofamerica.com/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://leetcode.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9991
+
+URL : http://gbipengayoman.com/html/dto.php			
+Status : Phishing
+Percentage safe to use URl is : 0.0085
+
+URL : http://www.karsilaw.com/junior/RENAME/			
+Status : Phishing
+Percentage safe to use URl is : 2.4562
+
+URL : http://www.karsilaw.com/junior/RENAME/			
+Status : Phishing
+Percentage safe to use URl is : 2.4562
+
+URL : http://cactus2e.com/cache/_/bb/?page3,105,7537,0,0,1,1.bb?codigoNoticia=3440=3680644			
+Status : Phishing
+Percentage safe to use URl is : 0.1557
+
+URL : http://pastehtml.com/view/bpsgchdhi.html			
+Status : Phishing
+Percentage safe to use URl is : 0.0085
+
+URL : https://www.facebook.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : http://pastehtml.com/view/bpsgchdhi.html			
+Status : Phishing
+Percentage safe to use URl is : 3.073
+
+URL : http://www.busydirectory.com/google/2013googledocs/			
+Status : Phishing
+Percentage safe to use URl is : 0.0293
+
+URL : http://www.infomir.eu/wp-admin/veify.access/yahoo.com/			
+Status : Phishing
+Percentage safe to use URl is : 0.7986
+
+URL : http://www.naylorantiques.com/euWIWYTbuFyUmmj/opGJvHhmPmNuTgQ/			
+Status : Phishing
+Percentage safe to use URl is : 0.0293
+
+URL : http://savageranch.com/portal/bnzonlineaccess/accountupdate/1,1184,10-123--1871,00.html			
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com			
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.sundhedsuddannelsepaabloggen.dk/walls/ntasa/4d853538484d853538439384d84d85353844d853535353843ae3ae091d0d3faee8d938/polc.htm?d80a13c0db1f8e263663d3faee8d9384d85353843a619606282818e091d0d5cca9da5bbd3cf815b0e20b6a6d91b7d5cca9da5bbd3cf815b0e20b6a6d91b7			
+Status : Phishing
+Percentage safe to use URl is : 12.9104
+
+URL : http://www.mesentericischemia.net/PayPal.it/login/security/confirmation4548684645384534/it/Processing.htm?cmd=_Processing&dispatch=5885d80a13c0db1fb6947b0aeae66fdbfb2119927117e3a6f876e0fd34af43656168e67600f957a2d0fda05b27e4b7b46168e67600f957a2d0fda05b27e4b7b4			
+Status : Phishing
+Percentage safe to use URl is : 12.9104
+
+URL : http://api.yontoo.com/GetClientData.ashx?key=null&amp;id=b2af1809-361c-40e7-b5b9-a0473e71ab31&amp;loc=http:/www.ebay.com/itm/Womens-Juniors-Off-White-American-Eagle-Puffer-Coat-w-Fur-Trim-Hood-size-M-/110967312041?pt=US_CSA_WC_Outerwear&hash=item19d62acea9&amp;apps=twittube,ezLooker,pagerage,buzzdock,toprelatedtopics
+Status : Phishing
+Percentage safe to use URl is : 12.9104
+
+URL : http://www.naylorantiques.com/%20*/ZLNWQMIGQZGQYFJUHAIDEDRMJUZIYQMGNIMKCUYFKAMMYZHGQQEBTDFMJOOUIABNWSUJZHFWSHHUFXGJHCTIFDGELITMCYDWNIC/RAOWUGFWXWGCWDIJTUADYGOVHSTCPLLUYGOGUUIYMPUIYVRLORZYKMXGDCKOQNUKYEINWNMNXRTSNKPIZCYLQNSIWGEEGCFNIMS/
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify5.srv-woa1.co.uk/identify-customer=cLN9rubqUgFhbRmuWfmQr7RWJh5Ck0XO0zujjeNCo04Gz5l1Gca53t8w9M13hgyN3YUNnLOOYrGOrJTP7tWKCL6GroHmQxTpXFg5/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://deborahwolfeltd.com/spins/lib/secure.wellsfargo.com/secure.wellsfargo.com/index.htmsignonlobconshttp:/67.225.179.163/spins/lib/secure.wellsfargo.com/secure.wellsfargo.com/index.htm?signonlob=cons
+Status : Phishing
+Percentage safe to use URl is : 10.7454
+
+URL : http://keywindows7.net/media/Fullz/Fullz/online/myca/ocareg/mt_personal_cm/verfiy/Account/Portal/Billing.php?cmd=https://online.americanexpress.com/myca/logon/us/action?request_type=Verfiy_Information
+Status : Not Phishing
+Percentage safe to use URl is : 91.4211
+
+URL : http://keywindows7.net/media/Fullz/Fullz/online/myca/ocareg/mt_personal_cm/verfiy/Account/Portal/Billing.php?cmd=https://online.americanexpress.com/myca/logon/us/action?request_type=Verfiy_Information
+Status : Not Phishing
+Percentage safe to use URl is : 91.4211
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 4.911
+
+URL : https://www.harvard.edu/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976

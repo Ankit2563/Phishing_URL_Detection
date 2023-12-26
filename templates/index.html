@@ -1,0 +1,83 @@
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="static/styles.css" rel="stylesheet">
+    <title>Phishing URL Checker</title>
+    <style>
+      p {
+            margin-bottom: 10px;
+            color: {% if result.prediction == "Phishing" %}red {% else %} green {% endif %}; /* Color based on prediction result */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Phishing URL Checker</h1>
+    </header>
+    <main>
+        <form method="POST" action="/">
+            <label for="url">Enter URL:</label>
+            <input type="text" name="url" required>
+            <button type="submit">Check</button>
+        </form>
+
+        {% if result %}
+            <h2>Result for <URL:p>{{result.url}}</URL:p> </h2>
+           
+            <p>URL Status: {{ result.prediction }}</p>
+            <p>Percentage safe to use URL: {{ result.probability }}</p>
+        {% endif %}
+    </main>
+</body>
+</html>
+ -->
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="static/styles.css" rel="stylesheet">
+    <title>Phishing URL Checker</title>
+    <style>
+        h2 {
+            margin-top: 20px;
+            color: #333; /* Header color */
+        }
+         .phishing { color: red; }
+        .safe { color: green; }
+    </style>
+   
+</head>
+<body>
+    <header>
+        <h1>Phishing URL Checker</h1>
+    </header>
+    <main>
+        <form method="POST" action="/">
+            <label for="url">Enter URL:</label>
+            <input type="text" name="url" required>
+            <button type="submit">Check</button>
+        </form>
+
+        {% if result %}
+            <h2>Result for <URL:p>{{result.url}}</URL:p> </h2>
+
+            <!-- Apply the class based on prediction result -->
+            <p class="{% if result.prediction == 'Phishing' %}phishing{% else %}safe{% endif %}">
+                URL Status: {{ result.prediction }}
+            </p>
+            <p class="{% if result.prediction == 'Phishing' %}phishing{% else %}safe{% endif %}">
+                Percentage safe to use URL: {{ result.probability }}
+            </p>
+
+        {% endif %}
+    </main>
+</body>
+</html>
+
