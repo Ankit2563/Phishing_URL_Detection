@@ -10,7 +10,7 @@ from datetime import date, datetime
 import time
 from dateutil.parser import parse as date_parse
 from urllib.parse import urlparse
-
+# This  i m creating for the url components extraction it basically gives the component value
 class FeatureExtraction:
     features = []
     def __init__(self,url):

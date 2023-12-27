@@ -4,7 +4,7 @@ from feature import FeatureExtraction
 
 app = Flask(__name__)
 
-# Load the trained model
+
 model = load('phishing_model.joblib')
 
 @app.route('/', methods=['GET', 'POST'])
@@ -13,14 +13,14 @@ def index1():
 
     if request.method == 'POST':
         url_to_check = request.form['url']
-        # Extract features for the given URL
+      
         feature_extractor = FeatureExtraction(url_to_check)
         features_list = feature_extractor.getFeaturesList()
 
-        # Reshape the features for prediction
+        
         features_for_prediction = [features_list]
 
-        # Make a prediction
+        
         prediction = model.predict(features_for_prediction)
         probability = model.predict_proba(features_for_prediction)[:, 1]
 
@@ -50,7 +50,7 @@ def index1():
         
         
         file_path='response.txt'
-        # for writing in the response.txt file
+       
         with open(file_path,"a") as file:
             file.write("\n"+ response_data)
         
