@@ -1,4 +1,5 @@
-#Phishing URL Detection
+#
+Phishing URL Detection
 ###This project is designed for the detection of phishing URLs using a machine learning model based on features extracted from the URLs. The model is implemented using a Gradient Boosting Classifier.
 
 ##Project Overview
