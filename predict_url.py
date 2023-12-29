@@ -19,10 +19,10 @@ def predict_phishing(url):
 if __name__ == "__main__":
     url_to_check = "https://www.harvard.edu/" 
                    
-    # feature_extractor = FeatureExtraction(url_to_check)
-    # features_list = feature_extractor.getFeaturesList()
-    # print(features_list)
+    feature_extractor = FeatureExtraction(url_to_check)
+    features_list = feature_extractor.getFeaturesList()
+    print(features_list)
     result, probability_score = predict_phishing(url_to_check)
-    # print(f"The URL {url_to_check} is {'phishing' if result == 1 else 'not phishing'}.")
-    # print(f"Probability Score: {probability_score}")
+    print(f"The URL {url_to_check} is {'phishing' if result == 1 else 'not phishing'}.")
+    print(f"Probability Score: {probability_score}")
     

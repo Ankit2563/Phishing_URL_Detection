@@ -453,3 +453,339 @@ Percentage safe to use URl is : 4.911
 URL : https://www.harvard.edu/
 Status : Not Phishing
 Percentage safe to use URl is : 99.9976
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 4.911
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 1.2098
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9788
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9788
+
+URL : https://www.harvard.edu/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9976
+
+URL : https://www.facebook.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9788
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : https://www.bankofamerica.com/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.972
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 97.3675
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.306
+
+URL : https://www.bankofamerica.com/ 
+Status : Not Phishing
+Percentage safe to use URl is : 99.306
+
+URL : http://txellwebs.com/blog/wp-content/scap/0f3b500cdb2f850d4d281318c0d500d1/webscr.html?cmd=_login-run&amp;dispatch=5885d80a13c0db1f998ca054efbdf2c29878a435fe324eec2511727fbf3e9efcf0d778878417ad5e76ac7d55b5d95db0f0d778878417ad5e76ac7d55b5d95db0
+Status : Not Phishing
+Percentage safe to use URl is : 88.7367
+
+URL : http://bid.openx.net/json?amp;amp;amp;amp;cid;=oxpv1:1-1-1-1-2&amp;amp;amp;f;=0.1&amp;amp;amp;pid;=6816e307-0a4f-774f-9a04-0656ee32b144&amp;amp;amp;s;=468x60&amp;amp;amp;url;=hxxp:/zacateks.com/wp-includes/pomo/online.wellsfargo.com/online.wellsfargo.com/authenticat&amp;amp;c=oxm_85552372154
+Status : Not Phishing
+Percentage safe to use URl is : 94.213
+
+URL : http://webmail2.centurytel.net/hwebmail/services/go.php?url=http://63.247.80.138/~julilift/_private/chasesessionsrestore23ghksjf987564jkdgh48937dskjg487395ydjfgsdf84795jhsdf83475sdjfgnmcb47835y/chasesessionsrestore23ghksjf987564jkdgh48937dskjg487395ydjfgsdf84795jhsdf83475sdjfgnmcb47835y/
+Status : Not Phishing
+Percentage safe to use URl is : 93.0764
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.smxszz.com/images/?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 91.4211
+
+URL : http://www.yage168.cn/images/?app=com-d3&amp;us.battle.net/login/en/?ref=http://tlqnpnhus.battle.net/d3/en/index
+Status : Phishing
+Percentage safe to use URl is : 1.7986
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.rybkj.cn/jpg/?us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 98.9915
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9888
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://online.citicard.com.v2vshpwz8h.agencja-em.pl/doctorsincanton.com/wp-css/online.php
+Status : Not Phishing
+Percentage safe to use URl is : 99.9849
+
+URL : http://online.citicard.com.v2vshpwz8h.agencja-em.pl/doctorsincanton.com/wp-css/online.php
+Status : Not Phishing
+Percentage safe to use URl is : 99.9849
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9947
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 83.224
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9928
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 83.224
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 83.224
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9947
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.9947
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.yage168.cn/images/?app=com-d3&amp;us.battle.net/login/en/?ref=http://tlqnpnhus.battle.net/d3/en/index
+Status : Phishing
+Percentage safe to use URl is : 1.7986
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://174.139.46.123/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+Status : Phishing
+Percentage safe to use URl is : 45.232
+
+URL : http://www.mypublicdomainpictures.com/
+Status : Phishing
+Percentage safe to use URl is : 7.0089
+
+URL : https://www.facebook.com/Interactive-Television-Pvt-Ltd-Group-M-100230523435650/photos/?ref=page_internal
+Status : Not Phishing
+Percentage safe to use URl is : 99.7894
+
+URL : http://www.budgetbots.com/server.php/Server%20update/index.php?email=USER@DOMAIN.com
+Status : Phishing
+Percentage safe to use URl is : 39.9057
+
+URL : http://www.fontspace.com/category/blackletter
+Status : Phishing
+Percentage safe to use URl is : 7.0089
+
+URL : http://www.answers.com/Q/What_are_the_sizes_of_computer_memory
+Status : Phishing
+Percentage safe to use URl is : 0.0122
+
+URL : http://www.crestonwood.com/router.php
+Status : Phishing
+Percentage safe to use URl is : 1.1317
+
+URL : http://rgipt.ac.in
+Status : Phishing
+Percentage safe to use URl is : 0.2564
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.973
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 64.2139
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 64.2139
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Not Phishing
+Percentage safe to use URl is : 99.973
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.973
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 29.8474
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.smxszz.com/images/?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 71.6453
+
+URL : http://www.yage168.cn/images/?app=com-d3&amp;us.battle.net/login/en/?ref=http://tlqnpnhus.battle.net/d3/en/index
+Status : Phishing
+Percentage safe to use URl is : 0.4324
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://www.rybkj.cn/jpg/?us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 71.6453
+
+URL : https://mega.nz/folder/XkcDFSLL#RtOnsDiV7zSX6ra37WuBRw
+Status : Not Phishing
+Percentage safe to use URl is : 99.9998
+
+URL : http://127.0.0.1:5000/
+Status : Phishing
+Percentage safe to use URl is : 27.9945
+
+URL : https://www.codingninjas.com/studio/problems?practice_topic%5B%5D=Dynamic%20Programming
+Status : Not Phishing
+Percentage safe to use URl is : 99.7894
+
+URL : https://www.codingninjas.com/studio/problems?practice_topic%5B%5D=Dynamic%20Programming
+Status : Not Phishing
+Percentage safe to use URl is : 99.7894
+
+URL : https://www.brainkart.com/article/Mathematical-Expectation--Solved-Example-Problems_38977/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9945
+
+URL : https://web.whatsapp.com/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9788
+
+URL : https://www.codingninjas.com/studio/problems?practice_topic%5B%5D=Dynamic%20Programming
+Status : Not Phishing
+Percentage safe to use URl is : 99.7894
+
+URL : <!DOCTYPE html> <html lang="en"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <title>Phishing URL Checker</title>     <!-- Add Bootstrap CSS link -->     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> </head> <body>     <div class="container mt-5">         <h1 class="mb-4">Phishing URL Checker</h1>          <form method="POST" action="/">             <div class="form-group">                 <label for="urls">Enter URLs (separated by commas):</label>                 <textarea class="form-control" id="urls" name="urls" rows="4" cols="50" required></textarea>             </div>             <button type="submit" class="btn btn-primary">Check Phishing</button>         </form>          <!-- Display results in a card -->         {% if results %}             <h2 class="mt-4">Results:</h2>             <div class="card mt-3">                 <div class="card-body">                     {% for result in results %}                         <div class="mb-3">                             <h5 class="card-title">URL: {{ result['url'] }}</h5>                             <p class="card-text">Prediction: {{ result['prediction'] }}</p>                             <p class="card-text">Percentage safe to use URL: {{ result['probability'] }}</p>                         </div>                     {% endfor %}                 </div>             </div>         {% endif %}     </div>      <!-- Add Bootstrap JS and Popper.js scripts -->     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> </body> </html>
+Status : Not Phishing
+Percentage safe to use URl is : 93.3673
+
+URL : https://nitj.ac.in/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9788
+
+URL : https://clouddoc-authorize.firebaseapp.com/.xx./xxxx
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://www.reynoldstransfer.com/versa-lift-fork-truck/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9994
+
+URL : http://dbs.vote-friend.com/sg?ref=anything
+Status : Phishing
+Percentage safe to use URl is : 31.2361
+
+URL : https://www.halisupportservice.com/Login.php
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://www.signets.com.br/wp-includes/wlwmanifest.xml
+Status : Not Phishing
+Percentage safe to use URl is : 99.9981
