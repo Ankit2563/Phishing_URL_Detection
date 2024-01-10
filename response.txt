@@ -789,3 +789,19 @@ Percentage safe to use URl is : 100.0
 URL : https://www.signets.com.br/wp-includes/wlwmanifest.xml
 Status : Not Phishing
 Percentage safe to use URl is : 99.9981
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 62.4183
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 62.4183
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948

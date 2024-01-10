@@ -187,7 +187,7 @@ class FeatureExtraction:
             for head in self.soup.find_all('head'):
                 for head.link in self.soup.find_all('link', href=True):
                     dots = [x.start(0) for x in re.finditer('\.', head.link['href'])]
-                    if self.url in head.link['href'] or len(dots) == 1 or domain in head.link['href']:
+                    if self.url in head.link['href'] or len(dots) == 1 or self.domain in head.link['href']:
                         return 1
             return -1
         except:
@@ -260,7 +260,7 @@ class FeatureExtraction:
         try:
             i,unsafe = 0,0
             for a in self.soup.find_all('a', href=True):
-                if "#" in a['href'] or "javascript" in a['href'].lower() or "mailto" in a['href'].lower() or not (url in a['href'] or self.domain in a['href']):
+                if "#" in a['href'] or "javascript" in a['href'].lower() or "mailto" in a['href'].lower() or not (self.url in a['href'] or self.domain in a['href']):
                     unsafe = unsafe + 1
                 i = i + 1
 
