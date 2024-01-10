@@ -1,5 +1,4 @@
 
-URL : https://www.nitj.ac.in/
 Status : Not Phishing
 Percentage safe to use URl is : 100.0
 
@@ -805,3 +804,211 @@ Percentage safe to use URl is : 99.8948
 URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
 Status : Not Phishing
 Percentage safe to use URl is : 99.8948
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://censor.net.ua/tag/5146/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%BC%D0%B8%D1%87
+Status : Phishing
+Percentage safe to use URl is : 0.046
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://www.yage168.cn/images/?app=com-d3&amp;us.battle.net/login/en/?ref=http://tlqnpnhus.battle.net/d3/en/index
+Status : Not Phishing
+Percentage safe to use URl is : 98.5555
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8948
+
+URL : http://online.citicard.com.v2vshpwz8h.agencja-em.pl/doctorsincanton.com/wp-css/online.php
+Status : Not Phishing
+Percentage safe to use URl is : 99.8462
+
+URL : URL : https://www.nitj.ac.in/
+Status : Not Phishing
+Percentage safe to use URl is : 89.9476
+
+URL : https://www.nitj.ac.in/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9994
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 29.8512
+
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.008
+
+URL : https://www.jpmorgan.com/investment-banking/esg-at-j-p-morgan
+Status : Not Phishing
+Percentage safe to use URl is : 99.9984
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : https://nitj.ac.in
+Status : Phishing
+Percentage safe to use URl is : 0.0
+
+URL : http://www.smxszz.com/images/?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Phishing
+Percentage safe to use URl is : 3.9738
+
+URL : http://www.yage168.cn/images/?app=com-d3&amp;us.battle.net/login/en/?ref=http://tlqnpnhus.battle.net/d3/en/index
+Status : Phishing
+Percentage safe to use URl is : 3.9738
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 14.5413
+
+URL : https://www.jpmorgan.com/investment-banking/esg-at-j-p-morgan
+Status : Phishing
+Percentage safe to use URl is : 0.0
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Phishing
+Percentage safe to use URl is : 0.0025
+
+URL : https://nitj.ac.in
+Status : Phishing
+Percentage safe to use URl is : 0.0
+
+URL : https://nitj.ac.in
+Status : Phishing
+Percentage safe to use URl is : 0.0
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.5531
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 0.0003
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 0.0001
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 1.1491
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 0.0001
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL :  https://www.harvard.edu/
+Status : Phishing
+Percentage safe to use URl is : 4.6733
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9974
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.1276
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.4069
+
+URL :  https://www.jpmorgan.com/investment-banking/esg-at-j-p-morgan
+Status : Phishing
+Percentage safe to use URl is : 8.5593
+
+URL : https://111.90.159.132/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : https://mail.google.com/mail/u/0/#inbox
+Status : Not Phishing
+Percentage safe to use URl is : 99.9975
+
+URL : https://mail.google.com/mail/u/0/#inbox
+Status : Not Phishing
+Percentage safe to use URl is : 99.9975
