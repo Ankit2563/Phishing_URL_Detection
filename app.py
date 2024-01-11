@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request,make_response
 from joblib import load
-from feature import FeatureExtraction
+from feature2 import FeatureExtraction
 
 app = Flask(__name__)
 
