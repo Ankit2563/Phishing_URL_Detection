@@ -533,22 +533,68 @@ Status : Not Phishing
 Percentage safe to use URl is : 100.0
 
 URL : http://123.456.789.123/amazon.com/
+
+URL : http://123.456.789.123/amazon.com/
 Status : Not Phishing
-Percentage safe to use URl is : 99.6423
+Percentage safe to use URl is : 69.002
 
 URL : http://flipkart.hikhop.com/
 Status : Phishing
-Percentage safe to use URl is : 0.0
+Percentage safe to use URl is : 6.3886
 
-URL :  https://www.harvard.edu/
+URL : https://mail.google.com/mail/u/0/#inbox
+Status : Not Phishing
+Percentage safe to use URl is : 96.3031
+
+URL : http://87e924b7eab56b0e80a9e506f08c4ed4.domeniu.com/us/?token=87e924b7eab56b0e80a9e506f08c4ed4
 Status : Phishing
-Percentage safe to use URl is : 0.0005
+Percentage safe to use URl is : 8.4783
 
-URL :  https://www.harvard.edu/
+URL : http://censor.net.ua/tag/4535/%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80%D1%8B
 Status : Phishing
-Percentage safe to use URl is : 0.0005
+Percentage safe to use URl is : 8.4783
 
-URL : https://www.harvard.edu/
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify3.id-app7.co.uk/identify-customer=Q2EbzpWzD7U0ncKx6B3Vx4mWDwZ8oVGg4nABtLVc6ZixMgfmacLRWZ3Rr9TfcAvhLYqJmm3u1V6OtPVDE90zuixWEJGbPgUNmxUX/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9997
+
+URL : http://paypal.com.us.cgi-bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8f7d94f1b2bd60db81824.waterpark-waterboom.info/hdfv877943iuuyur
+Status : Not Phishing
+Percentage safe to use URl is : 99.9997
+
+URL : http://www.serviceclient-assistance-id.pahadika-tc.com/update-your-information/cabeb2513112278d0de1c14dab92ac7b/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9997
+
+URL : http://www.smxszz.com/images/?http://us.battle.net/login/en/?ref=http://us.battle.net/d3/en/index&amp;app=com-d3
+Status : Not Phishing
+Percentage safe to use URl is : 98.8369
+
+URL : http://1-configurazione-supporto-apple.store-contatta.bimabn.com/c/Apple-id/24418c0addfdb9452b92ad39df7e9cef/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9997
+
+URL : https://mega.nz/folder/XkcDFSLL#RtOnsDiV7zSX6ra37WuBRw
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 69.002
+
+URL : http://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 69.002
+
+URL : http://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 69.002
+
+URL : http://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 69.002
+
+URL : https://nitj.ac.in
 Status : Not Phishing
 Percentage safe to use URl is : 100.0
 
@@ -556,19 +602,31 @@ URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5
 Status : Not Phishing
 Percentage safe to use URl is : 99.9997
 
-URL : http://123.456.789.123/amazon.com/
+URL : https://www.harvard.edu/
 Status : Not Phishing
-Percentage safe to use URl is : 69.002
+Percentage safe to use URl is : 100.0
 
 URL : http://123.456.789.123/amazon.com/
 Status : Not Phishing
 Percentage safe to use URl is : 69.002
 
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 53.2814
+URL : http://censor.net.ua/tag/5146/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%BC%D0%B8%D1%87
+Status : Phishing
+Percentage safe to use URl is : 8.4783
 
 URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 54.5759
+
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.0
+
+URL : https://www.harvard.edu/
 Status : Not Phishing
 Percentage safe to use URl is : 100.0
 
@@ -576,66 +634,22 @@ URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5
 Status : Not Phishing
 Percentage safe to use URl is : 100.0
 
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 99.9974
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.4069
+
 URL : https://www.harvard.edu/
 Status : Not Phishing
-Percentage safe to use URl is : 100.0
+Percentage safe to use URl is : 99.9974
 
-URL : https://nitj.ac.in
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
 Status : Not Phishing
-Percentage safe to use URl is : 100.0
+Percentage safe to use URl is : 99.8861
 
-URL : https://nitj.ac.in
-Status : Not Phishing
-Percentage safe to use URl is : 100.0
-
-URL : https://nitj.ac.in
-Status : Not Phishing
-Percentage safe to use URl is : 100.0
-
-URL : https://nitj.ac.in
-Status : Not Phishing
-Percentage safe to use URl is : 100.0
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 69.002
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 99.6158
-
-URL : http://123.456.789.123/amazon.com/
-Status : Not Phishing
-Percentage safe to use URl is : 99.6158
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.1276
