@@ -653,3 +653,95 @@ Percentage safe to use URl is : 99.8861
 URL : http://flipkart.hikhop.com/
 Status : Phishing
 Percentage safe to use URl is : 0.1276
+
+URL : https://nitjsr
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://87e924b7eab56b0e80a9e506f08c4ed4.domeniu.com/us/?token=87e924b7eab56b0e80a9e506f08c4ed4
+Status : Phishing
+Percentage safe to use URl is : 0.0499
+
+URL : http://copadomundofaturazero.dyndns-web.com/www.faturazerocopadomundocadastramento.com.br/copa-18/
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.4069
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.4069
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.5324
+
+URL : http://flipkart.hikhop.com/
+Status : Phishing
+Percentage safe to use URl is : 0.1344
+
+URL : https://www.jpmorgan.com/investment-banking/esg-at-j-p-morgan
+Status : Not Phishing
+Percentage safe to use URl is : 99.9999
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.8861
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.5324
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.5324
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.5324
+
+URL : https://www.harvard.edu/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://www.crestonwood.com/router.php
+Status : Phishing
+Percentage safe to use URl is : 0.0013
+
+URL : http://shadetreetechnology.com/V4/validation/a111aedc8ae390eabcfa130e041a10a4
+Status : Phishing
+Percentage safe to use URl is : 2.1281
+
+URL : http://www.crestonwood.com/router.php
+Status : Phishing
+Percentage safe to use URl is : 0.0297
+
+URL : http://www.crestonwood.com/router.php
+Status : Phishing
+Percentage safe to use URl is : 0.0297
+
+URL : https://support-appleld.com.secureupdate.duilawyeryork.com/ap/89e6a3b4b063b8d/?cmd=_update&dispatch=89e6a3b4b063b8d1b&locale=_
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 2.4069
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 100.0

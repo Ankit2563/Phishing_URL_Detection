@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 model = load('phishing_model.joblib')
-
+ 
 @app.route('/', methods=['GET', 'POST'])
 def index1():
     result = None
