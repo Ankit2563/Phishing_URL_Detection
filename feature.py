@@ -495,7 +495,7 @@ class FeatureExtraction:
             if url_match:
                 return -1
             elif ip_match:
-                return -1
+                return -1 
             return 1
         except:
             return 1

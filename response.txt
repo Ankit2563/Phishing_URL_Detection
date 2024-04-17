@@ -2077,3 +2077,83 @@ Percentage safe to use URl is : 4.192
 URL : http://174.139.46.123/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;ref_=nav_em_hd_clc_signin
 Status : Not Phishing
 Percentage safe to use URl is : 99.3279
+
+URL :   input {             padding: 8px;             font-size: 16px;             width: 100%;             box-sizing: border-box;             margin-bottom: 10px;             max-width: 100%; /* Added max-width to prevent extending beyond the main box */         }
+Status : Not Phishing
+Percentage safe to use URl is : 98.3828
+
+URL : http://123.456.789.123/amazon.com/
+Status : Not Phishing
+Percentage safe to use URl is : 96.9019
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.9987
+
+URL : https://www.harvard.edu/
+Status : Not Phishing
+Percentage safe to use URl is : 100.0
+
+URL : http://appleid.apple.co.uk.cgi-bin.webobjects.myappleid.woa.verify2.srv-woa1.co.uk/identify-customer=7gqIFbqj8arzSIQO5462DGWSCYDxgFcMXV0VVmRocB9YDXSVIl1eZXQ59t7hONf6Cy0nMNK3AXoC9tBGK0a7HH4hMrD16GBsW593/
+Status : Not Phishing
+Percentage safe to use URl is : 99.9987
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.9987
+
+URL : http://v2.email-marketing.adminsimple.com/track/link?s=a879370e133bf6f71b5cc7ce0c2043e1&amp;AdministratorID=20238&amp;MemberID=21410&amp;CampaignID=1&amp;CampaignStatisticsID=1&amp;URL=http%3A%2F%2Fwww.cadivi.pro%2Faprobados%2Faprobados2012.php%3Futm_source%3Dv2.email-marketing.adminsimple.com
+Status : Not Phishing
+Percentage safe to use URl is : 99.9987
+
+URL : https://pornhub.com
+Status : Not Phishing
+Percentage safe to use URl is : 98.648
+
+URL : https://pornhub.com
+Status : Not Phishing
+Percentage safe to use URl is : 98.648
+
+URL : https://www.pornhub.org/categories
+Status : Not Phishing
+Percentage safe to use URl is : 98.9729
+
+URL : https://theporndude.com/
+Status : Not Phishing
+Percentage safe to use URl is : 97.8886
+
+URL : \
+Status : Phishing
+Percentage safe to use URl is : 1.6049
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 1.6049
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 1.6049
+
+URL : https://nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 98.9777
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 1.6049
+
+URL : https://www.nitj.ac.in
+Status : Not Phishing
+Percentage safe to use URl is : 98.9777
+
+URL : https://www.ffe.org.in
+Status : Not Phishing
+Percentage safe to use URl is : 98.9718
+
+URL : http://123.456.789.123/amazon.com/
+Status : Phishing
+Percentage safe to use URl is : 1.6049
+
+URL : https://goo.gl/maps/qngGe6Bsnii4vYrM7
+Status : Not Phishing
+Percentage safe to use URl is : 97.7536
